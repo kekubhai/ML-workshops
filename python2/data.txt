@@ -1,1 +1,4 @@
-listen silent enlist rat tar art cat act dog god bat tab hello
+This is the first line.
+Python is an interesting language.
+I love coding.
+Learning new technologies is fun and exciting.
