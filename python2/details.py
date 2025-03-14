@@ -3,7 +3,7 @@ import csv
 header = ["Country", "Played", "Won", "Lost", "Tied", "No Result"]
 n1 = ["England", "746", "375", "334", "9", "28"]
 n2 = ["Australia", "932", "566", "323", "9", "34"]
-n3 = ["India", "987", "513", "417", "11", "46"]
+n3 = ["India", "97", "513", "417", "11", "46"]
 
 new_rows = [
     ['New Zealad', 500, 250, 200, 10, 40],
